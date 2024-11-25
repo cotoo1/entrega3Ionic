@@ -1,5 +1,5 @@
-# entrega3Ionic
+# entrega 3 Ionic
 
 data: https://apitestdata-nntm.onrender.com
 
-ionic capacitor open android
+Para simular la aplicacion: ionic capacitor open android
